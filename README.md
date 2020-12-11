@@ -1,2 +1,2 @@
-# Portfolio
-Deniz Sulmaz Portfolio
+# DS-Portfolio
+ My Portfolio
