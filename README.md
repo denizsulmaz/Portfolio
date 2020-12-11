@@ -1,3 +1,3 @@
 # DS-Portfolio
  My Portfolio
-https://denizsulmaz.github.io/Portfolio/dss.html
+https://denizsulmaz.github.io/Portfolio/main.html
